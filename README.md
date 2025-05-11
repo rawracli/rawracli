@@ -10,20 +10,40 @@
 <li>💖 Love the beautiful code and photos</li>
 </ul>
 <br>
-<p align="center" style="height: 180px;">
-    <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=RaflIsLife&amp;show_icons=true&amp;theme=radical">
-    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=RaflIsLife&amp;theme=radical&amp;show_icons=true&amp;border=e4e2e2">
-</p>
-
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<table width="100%" align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/RaflIsLife">
+          <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=RaflIsLife&amp;show_icons=true&amp;theme=radical">
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/RaflIsLife">
+          <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=RaflIsLife&amp;theme=radical&amp;show_icons=true&amp;border=e4e2e2">
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+  <td colspan="2">
+    <h3 align="center"><strong>🐍Snake Contribution🐍</strong></h3>
+    <p align="center">
+        <picture align="center">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaflIsLife/RaflIsLife/output/github-contribution-grid-snake-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaflIsLife/RaflIsLife/output/github-contribution-grid-snake.svg">
+          <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RaflIsLife/RaflIsLife/output/github-contribution-grid-snake.svg">
+        </picture>
+      </p>
+    </td>
+   </tr>
+</table>
 <hr>
-
-<div align="center">
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-    </picture>
-</div>
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
