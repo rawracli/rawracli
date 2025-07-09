@@ -16,16 +16,16 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/RaflIsLife">
-          <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=RaflIsLife&amp;show_icons=true&amp;theme=radical">
+        <a href="https://github.com/rawracli">
+          <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=rawracli&amp;show_icons=true&amp;theme=radical">
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/RaflIsLife">
-          <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=RaflIsLife&amp;theme=radical&amp;show_icons=true&amp;border=e4e2e2">
+        <a href="https://github.com/rawracli">
+          <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=rawracli&amp;theme=radical&amp;show_icons=true&amp;border=e4e2e2">
         </a>
       </p>
     </td>
@@ -35,9 +35,9 @@
     <h3 align="center"><strong>🐍Snake Contribution🐍</strong></h3>
     <p align="center">
         <picture align="center">
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaflIsLife/RaflIsLife/output/github-contribution-grid-snake-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RaflIsLife/RaflIsLife/output/github-contribution-grid-snake.svg">
-          <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RaflIsLife/RaflIsLife/output/github-contribution-grid-snake.svg">
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rawracli/rawracli/output/github-contribution-grid-snake-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rawracli/rawracli/output/github-contribution-grid-snake.svg">
+          <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rawracli/rawracli/output/github-contribution-grid-snake.svg">
         </picture>
       </p>
     </td>
@@ -48,14 +48,14 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaflIsLife&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rawracli&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 
 <p align="center"> 
   </p><div align="center">Visitor count</div>
   <div align="center">
-    <img src="https://profile-counter.glitch.me/RaflIsLife/count.svg">
+    <img src="https://profile-counter.glitch.me/rawracli/count.svg">
   </div> 
 <p></p>
 
