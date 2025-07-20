@@ -50,16 +50,3 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=rawracli&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
-
-
-<p align="center"> 
-  </p><div align="center">Visitor count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/rawracli/count.svg">
-  </div> 
-<p></p>
-
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
