@@ -25,7 +25,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/rawracli">
-          <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=rawracli&amp;theme=radical&amp;show_icons=true&amp;border=e4e2e2">
+          <img style="height:10rem;" src="https://github-readme-streak-stats-eight.vercel.app/?user=rawracli&amp;theme=radical&amp;show_icons=true&amp;border=e4e2e2">
         </a>
       </p>
     </td>
